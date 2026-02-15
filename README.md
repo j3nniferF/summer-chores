@@ -5,3 +5,5 @@ A Node.js practice project using callbacks ("callback hell") and setTimeout to s
 ## Run
 
 node callbackVersion.js
+node promiseVersion.js
+node asyncAwaitVersion.js
